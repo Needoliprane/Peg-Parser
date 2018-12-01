@@ -10,6 +10,10 @@ Le focntionnement est simple :
 Une structure grammar : 
 - allowed char : tous les chars autorisées
 - grammar char : tous les chars de grammaire
+une structure de control qui contient un tableau de structure
+- les 2 string autour du grammar char
+- et le char de grammaire
+- + différent élements pour remplir el tableau
 
 une fois la tructure initialisé le parsing peut commencer.
 Pour une implémentation : 
