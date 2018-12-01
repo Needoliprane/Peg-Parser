@@ -18,3 +18,9 @@ Pour une implémentation :
 3. peg_print(la strcutre control_peg)
 4. [optionnel] peg_print
 5. peg_destroy(grammar, peg_control)
+
+
+test : ./compiler_script
+
+./peg "....."
+Le comportement est imprésible si il y a 2 char de grammaire à la suite. Il faudra donc clean la string avant l'utilisation
