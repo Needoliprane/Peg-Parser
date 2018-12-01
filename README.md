@@ -13,7 +13,7 @@ Une structure grammar :
 une structure de control qui contient un tableau de structure
 - les 2 string autour du grammar char
 - et le char de grammaire
-- + différent élements pour remplir el tableau
+- différent élements pour remplir el tableau
 
 une fois la tructure initialisé le parsing peut commencer.
 Pour une implémentation : 
