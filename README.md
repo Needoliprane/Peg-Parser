@@ -23,4 +23,5 @@ Pour une implémentation :
 test : ./compiler_script
 
 ./peg "....."
+
 Le comportement est imprésible si il y a 2 char de grammaire à la suite. Il faudra donc clean la string avant l'utilisation
